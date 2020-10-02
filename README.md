@@ -1,3 +1,3 @@
 # Homelab
 
-[Setup layout] (./Setup.svg)
+[Setup layout] (https://github.com/Ocramoi/Homelab/blob/master/Setup.jpg)
