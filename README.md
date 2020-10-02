@@ -1,3 +1,3 @@
 # Homelab
 
-![Setup layout] (https://github.com/Ocramoi/Homelab/blob/master/Setup.jpg)
+![Setup layout](https://raw.githubusercontent.com/Ocramoi/Homelab/master/Setup.jpg)
