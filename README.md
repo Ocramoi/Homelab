@@ -1,2 +1,3 @@
 # Homelab
-[EN] Documentation for my homelab
+
+[Setup layout] (./Setup.svg)
