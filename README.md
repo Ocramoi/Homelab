@@ -10,6 +10,7 @@ Host Raspberry Pi Zero on local `192.168.11.8` with SSH port redirecting *(22)*.
 - [OcramoiBot](https://github.com/Ocramoi/OcramoiBot)
 - [icmc-adventures](https://github.com/milenacsilva/guia-de-merdas-bot)
 - [outlineEverything](https://github.com/Ocramoi/outlineEverything)
+- [ReadyMedia/MiniDLNA server](https://github.com/azatoth/minidlna)
 
 **TO DO:**
 
