@@ -3,7 +3,7 @@
 **Setup:**  
 *Image: [draw.io](https://app.diagrams.net/)*  
 ![Setup layout](https://raw.githubusercontent.com/Ocramoi/Homelab/master/Setup.jpg)  
-Host Raspberry Pi Zero on local `192.168.11.8` with SSH port redirecting *(22)*.
+Host: Raspberry Pi Zero on local `192.168.11.8` with SSH port redirecting *(22)*.
 
 **Public resources:**
 - [Ebook server](https://github.com/Ocramoi/freeEbookServer)
