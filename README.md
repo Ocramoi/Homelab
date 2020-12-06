@@ -11,8 +11,8 @@ Host Raspberry Pi Zero on local `192.168.11.8` with SSH port redirecting *(22)*.
 - [icmc-adventures](https://github.com/milenacsilva/guia-de-merdas-bot)
 - [outlineEverything](https://github.com/Ocramoi/outlineEverything)
 - [ReadyMedia/MiniDLNA server](https://github.com/azatoth/minidlna)
+- [ownCloud personal cloud storage](https://github.com/owncloud)
 
 **TO DO:**
 
- - [ ] Secure and make router public
- - [ ] Assign domain to web server with my personal website
+- []
